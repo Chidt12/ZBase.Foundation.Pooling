@@ -127,7 +127,7 @@
       "hash": "a599248dead28dee86064aa6a0a088db403882cb"
     },
     "com.zbase.foundation.pooling": {
-      "version": "file:ZBase.Foundation.Pooling",
+      "version": "file:com.zbase.foundation.pooling",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
